@@ -26,11 +26,11 @@ Earlier in my career, I played a pivotal role as a Data Science Intern at ADmyBR
 
 In my leisure time, I find solace and inspiration in photography, capturing the subtle beauty of the natural world through my lens.
 
-🌱 I am committed to continuous learning, consistently updating my knowledge in data science and machine learning to stay ahead in this rapidly evolving field.
-👯 Eager to embrace new challenges, I am actively seeking opportunities in data science and machine learning, and am open to both remote positions and relocation.
-💬 With solid skills in Python, JavaScript, and various machine learning libraries, I am ready to engage in meaningful discussions related to data science, machine learning, and web development.
-📫 I am just an email away for potential collaborations or opportunities in data science and machine learning. Feel free to reach out!
-😄 Pronouns: He/Him. I bring a positive attitude and a good sense of humor to my professional journey, creating a lively and constructive work environment.
+- 🌱 I am committed to continuous learning, consistently updating my knowledge in data science and machine learning to stay ahead in this rapidly evolving field.
+- 👯 Eager to embrace new challenges, I am actively seeking opportunities in data science and machine learning, and am open to both remote positions and relocation.
+- 💬 With solid skills in Python, JavaScript, and various machine learning libraries, I am ready to engage in meaningful discussions related to data science, machine learning, and web development.
+- 📫 I am just an email away for potential collaborations or opportunities in data science and machine learning. Feel free to reach out!
+- 😄 Pronouns: He/Him. I bring a positive attitude and a good sense of humor to my professional journey, creating a lively and constructive work environment.
 
 :partying_face: I have a zest for life, finding joy in cooking, and photography, truly embracing every moment.
 :book: Proactive in taking on challenging projects, committed to continuous learning and development.
