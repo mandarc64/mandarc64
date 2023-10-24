@@ -24,10 +24,6 @@
 
 I'm currently a Research Assistant at George Mason University, diving deep into data science and machine learning, with a particular focus on optimizing complex datasets using JAX. Eager to contribute to innovative projects, I am actively seeking new employment opportunities.
 
-I'm currently a Research Assistant at George Mason University, diving deep into data science and machine learning, with a particular focus on optimizing complex datasets using JAX. Eager to contribute to innovative projects, I am actively seeking new employment opportunities.
-
-Previously, as a Data Science Intern at ADmyBRAND in Mumbai, I honed my skills in data analysis, AWS, Python, and JavaScript, creating heatmaps for targeted advertising and enhancing machine learning applications.
-
 In my leisure time, I find solace and inspiration in photography, capturing the subtle beauty of the natural world through my lens.
 
 - 🌱 I am committed to continuous learning, consistently updating my knowledge in data science and machine learning to stay ahead in this rapidly evolving field.
