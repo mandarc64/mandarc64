@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, World! Glad you're here.</h1>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -20,9 +20,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-I am a Research Assistant at George Mason University College of Science, deeply immersed in the field of data science and machine learning. My current focus is on conducting JAX benchmarks on complex datasets, aiming for performance optimization using JAX. With a keen interest in contributing to innovative projects, I am actively exploring employment opportunities.
+I'm currently a Research Assistant at George Mason University, diving deep into data science and machine learning, with a particular focus on optimizing complex datasets using JAX. Eager to contribute to innovative projects, I am actively seeking new employment opportunities.
 
-Earlier in my career, I played a pivotal role as a Data Science Intern at ADmyBRAND, Mumbai, delving deep into data analysis, creating insightful heatmaps for targeted advertising, and honing my skills in AWS, Python, and JavaScript for data processing and machine learning applications. 
+I'm currently a Research Assistant at George Mason University, diving deep into data science and machine learning, with a particular focus on optimizing complex datasets using JAX. Eager to contribute to innovative projects, I am actively seeking new employment opportunities.
+
+Previously, as a Data Science Intern at ADmyBRAND in Mumbai, I honed my skills in data analysis, AWS, Python, and JavaScript, creating heatmaps for targeted advertising and enhancing machine learning applications.
 
 In my leisure time, I find solace and inspiration in photography, capturing the subtle beauty of the natural world through my lens.
 
@@ -32,10 +34,10 @@ In my leisure time, I find solace and inspiration in photography, capturing the 
 - 📫 I am just an email away for potential collaborations or opportunities in data science and machine learning. Feel free to reach out!
 - 😄 Pronouns: He/Him. I bring a positive attitude and a good sense of humor to my professional journey, creating a lively and constructive work environment.
 
-:partying_face: I have a zest for life, finding joy in cooking, and photography, truly embracing every moment.
-:book: Proactive in taking on challenging projects, committed to continuous learning and development.
-:wrench: Proficient with a variety of development, database management, and containerization tools across different operating systems.
-:envelope_with_arrow: Actively sharing knowledge and resources with the developer community through online forums and groups.
+- :partying_face: I have a zest for life, finding joy in cooking, and photography, truly embracing every moment.
+- :book: Proactive in taking on challenging projects, committed to continuous learning and development.
+- :wrench: Proficient with a variety of development, database management, and containerization tools across different operating systems.
+- :envelope_with_arrow: Actively sharing knowledge and resources with the developer community through online forums and groups.
 
 ### Where to find me
 
