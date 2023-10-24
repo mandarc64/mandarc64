@@ -5,6 +5,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -38,6 +40,8 @@ In my leisure time, I find solace and inspiration in photography, capturing the 
 - :book: Proactive in taking on challenging projects, committed to continuous learning and development.
 - :wrench: Proficient with a variety of development, database management, and containerization tools across different operating systems.
 - :envelope_with_arrow: Actively sharing knowledge and resources with the developer community through online forums and groups.
+
+![Mandar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarc64&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
